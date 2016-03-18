@@ -1317,4 +1317,4 @@ SOFTWARE.
     register( $$, $ );
   }
 
-} )( cytoscape, jQuery );
+} )( window.cytoscape, window.jQuery );
